@@ -1,0 +1,5 @@
+.custom_bg_home_p {
+    background-image: url(../background_homepage_bottom.png);
+    background-position: center;
+    background-size: cover;
+}

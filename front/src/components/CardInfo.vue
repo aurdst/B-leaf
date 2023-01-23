@@ -1,5 +1,5 @@
 <template>
-    <div class="ml-auto">
+    <div>
         <v-row align="center" justify="center">
             <v-col cols="3">
                 <v-card
